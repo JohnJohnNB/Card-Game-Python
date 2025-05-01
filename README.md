@@ -1,3 +1,4 @@
-# DSO-Exercicio-7
-Jogo de cartas
-- Exercício 7 da disciplina Desenvolvimento de Sistemas Orientados a Objetos, curso Sistemas de Informação UFSC.
+# Card-Game-Python
+Card game
+
+Exercise for the OOP-Systems-Development class for the Information Systems course under UFSC.
